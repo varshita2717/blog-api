@@ -8,3 +8,15 @@ Installation:
 
 4.Start the server for the index.js using:- node index.js or with nodemon : nodemon index.js' 
 5.Start the server for the server.js using:- node server.js or with nodemon : nodemon server.js' 
+
+Overview:
+##Home Page
+![Home Page Screenshot](images/homepage.png)
+
+##New Post
+![New Post Screenshot](images/new_post.png)
+
+##Edit Post
+![Edit Post Screenshot](images/edit.png)
+
+
